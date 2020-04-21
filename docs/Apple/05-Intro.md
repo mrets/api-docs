@@ -1,3 +1,0 @@
-# Intro
-
-to Apples

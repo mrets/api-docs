@@ -1,3 +1,6 @@
+---
+tags: [Establishing an M-RETS Organization]
+---
 # Establishing an M-RETS Organization
 
 Participation in M-RETS is voluntary, though some states or provinces may require participation in M-RETS for purposes of regulatory program compliance. Any party that registers with M-RETS and pays the applicable fees may establish an Organization in the System.

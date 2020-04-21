@@ -1,3 +1,6 @@
+---
+tags: [Establishing an M-RETS Organization]
+---
 ## Billing Information
 
 It is the Organization&#39;s responsibility to make sure billing info is up to date and correct. Billing Information can be changed at any time. Information on how to add or update billing contact information can be found [here](https://help.mrets.org/within-the-system/billing/updateadd-your-billing-contact-information).

@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "M-Rets (params in:body)",
+    "title": "M-Rets API Docs",
     "description": "",
     "version": "1.0",
     "x-copyright": null
